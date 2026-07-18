@@ -1,0 +1,11 @@
+Parameter,Value
+Highest Point in Catchment in feet,550
+Point within river bed in feet,350
+Height at crossing in feet,340
+Stream length at crossing in meters,1100
+Length of stream in meters,3600
+Average annual rainfall in inches,45
+Time of Base in hours,7
+Catchment area in square kilometers,1.7
+Runoff Coefficient,0.4
+Mannings Coefficient of Roughness,0.013
